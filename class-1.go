@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func class1() {
 
 	// hello world
 
