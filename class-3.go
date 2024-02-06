@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func class3() {
 
 	// array
 	//var agesV1 [3]int = [3]int{20, 25, 30}
